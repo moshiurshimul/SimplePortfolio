@@ -84,8 +84,6 @@ section {
     border-image-slice: 30%;
 }
 
-.footer-copyright {
+footer p {
     text-align: center;
-    clear: left;
-    padding-top: 100px;
 }
